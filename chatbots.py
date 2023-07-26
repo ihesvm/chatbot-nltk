@@ -1,6 +1,6 @@
 import nltk
 from nltk.chat.util import Chat, reflections
-nltk.download('chat')
+
 pairs = [
     [
         r"my name is (.*)",
