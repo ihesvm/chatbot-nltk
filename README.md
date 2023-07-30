@@ -10,11 +10,11 @@ _*Requirements:*_
 ---
 ### how to run?
 ```bash
-> podman build -t chatsbots
+> podman build -t chatsbots .
 .....
 .....
 .....
-> podman run -i chatbots
+> podman run -i chatbots 
 Hi! I am an AI chatbot. How can I assist you today?
 > hello
 Hello
